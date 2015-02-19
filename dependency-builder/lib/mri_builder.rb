@@ -41,6 +41,7 @@ recipe.configure_options << "--enable-load-relative"
 recipe.configure_options << "--disable-install-doc"
 recipe.configure_options << "--disable-static"
 recipe.configure_options << "--enable-shared"
+recipe.configure_options << "--enable-pic"
 
 puts "-----> Using config options: "
 recipe.configure_options.each { |opt| puts "\t#{opt}" }
