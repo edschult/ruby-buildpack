@@ -111,7 +111,7 @@ dependencies:
     uri: https://pivotal-buildpacks.s3.amazonaws.com/ruby/owned/binaries/lucid/ruby-1.9.2.tgz
   - name: ruby
     version: 1.8.7
-    uri: https://pivotal-buildpacks.s3.amazonaws.com/ruby/owned/binaries/lucid/ruby-1.8.7.tgz
+    uri: https://pivotal-buildpacks.s3.amazonaws.com/ruby/binaries/lucid/ruby-1.8.7.tgz
   - name: jruby
     version: ruby-1.8.7-jruby-1.7.1
     uri: https://s3-external-1.amazonaws.com/heroku-buildpack-ruby/cedar/ruby-1.8.7-jruby-1.7.1.tgz
